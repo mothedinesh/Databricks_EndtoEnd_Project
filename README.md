@@ -1,7 +1,8 @@
-# Databricks_EndtoEnd_Project
+# Databricks: Medallion Architecture Implementation
 
 ### Overview
-The Databricks_EndtoEnd_Project is designed to demonstrate a complete data pipeline using Databricks, from raw data ingestion to advanced analytics and reporting. The project is divided into three main layers: Bronze, Silver, and Gold.
+
+The Medallion Architecture Implementation project is designed to demonstrate a complete data pipeline using Databricks, from raw data ingestion to advanced analytics and reporting. The project is divided into three main layers: Bronze, Silver, and Gold.
 
 ## Bronze Layer
 

@@ -135,6 +135,7 @@ dlt.create_auto_cdc_flow(
     stored_as_scd_type = 1
 )
 
+'''
 ########################## Silver Business View
 
 @dlt.table(
@@ -158,3 +159,4 @@ def silver_business():
 def silver_business_mat():
     df = dlt.read("silver_business")
     return df
+'''

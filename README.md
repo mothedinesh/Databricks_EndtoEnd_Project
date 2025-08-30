@@ -138,4 +138,3 @@ The Gold_Dimensions notebook is designed to transform and load data from the Sil
 This process ensures that the data in the Gold layer is up-to-date, accurate, and ready for advanced analytics and reporting.
 
 ![Project_Workflow_EndtoEnd.PNG](./Jobs-Pipelines Screenshots/Project_Workflow_EndtoEnd.PNG "Project_Workflow_EndtoEnd.PNG")
-

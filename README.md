@@ -59,9 +59,9 @@ The BronzeLayer notebook implements incremental data ingestion from raw files(Vo
 
 This notebook establishes the foundation for reliable, scalable, and incremental data ingestion, preparing data for downstream processing in Silver and Gold layers.
 
-![Bronze_DataIngestion-1.PNG](./Jobs-Pipelines Screenshots/Bronze_DataIngestion-1.PNG "Bronze_DataIngestion-1.PNG")
+![Bronze_DataIngestion-1.PNG](./Jobs-Pipelines_Screenshots/Bronze_DataIngestion-1.PNG "Bronze_DataIngestion-1.PNG")
 
-![Bronze_DataIngestion-2.PNG](./Jobs-Pipelines Screenshots/Bronze_DataIngestion-2.PNG "Bronze_DataIngestion-2.PNG")
+![Bronze_DataIngestion-2.PNG](./Jobs-Pipelines_Screenshots/Bronze_DataIngestion-2.PNG "Bronze_DataIngestion-2.PNG")
 
 # Silver Layer
 
@@ -104,7 +104,7 @@ The DLT_Silver_Pipeline.py script is designed to transform and load data from th
 
 This script ensures that data in the Silver layer is cleansed, enriched, and ready for further processing and analysis.
 
-![Silver_DLT_Pipeline.PNG](./Jobs-Pipelines Screenshots/Silver_DLT_Pipeline.PNG "Silver_DLT_Pipeline.PNG")
+![Silver_DLT_Pipeline.PNG](.//Jobs-Pipelines_Screenshots/Silver_DLT_Pipeline.PNG "Silver_DLT_Pipeline.PNG")
 
 # Gold Layer
 
@@ -137,4 +137,4 @@ The Gold_Dimensions notebook is designed to transform and load data from the Sil
 
 This process ensures that the data in the Gold layer is up-to-date, accurate, and ready for advanced analytics and reporting.
 
-![Project_Workflow_EndtoEnd.PNG](./Jobs-Pipelines Screenshots/Project_Workflow_EndtoEnd.PNG "Project_Workflow_EndtoEnd.PNG")
+![Project_Workflow_EndtoEnd.PNG](./Jobs-Pipelines_Screenshots/Project_Workflow_EndtoEnd.PNG "Project_Workflow_EndtoEnd.PNG")
